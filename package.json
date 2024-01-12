@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "engines": {
-    "node": "16.4.2"
+    "node": "20.11.0"
   },
   "dependencies": {
     "moralis": "^2.23.2",
